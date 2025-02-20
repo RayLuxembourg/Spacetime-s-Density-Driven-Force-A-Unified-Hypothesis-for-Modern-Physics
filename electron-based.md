@@ -59,7 +59,7 @@ Given electrons’ quantum nature, high $\( n_e \)$ regions—like atomic nuclei
 
 ## 8. Cosmological Implications: Electron Density in the Universe  
 
-Electron density varies widely in cosmology, from the early universe’s plasma to stellar cores. This theory predicts enhanced spacetime effects in high-$\( n_e \)$ regions, potentially altering gravitational dynamics. For example, it might explain galaxy rotation curves without dark matter if electron distributions dominate in specific contexts, though this requires further modeling.
+Electron density varies widely in cosmology, from the early universe’s plasma to stellar cores. This theory predicts enhanced spacetime effects in high- $\( n_e \)$ regions, potentially altering gravitational dynamics. For example, it might explain galaxy rotation curves without dark matter if electron distributions dominate in specific contexts, though this requires further modeling.
 
 ## 9. Practical Applications: Generating Force with Plasma  
 
@@ -67,7 +67,7 @@ High-electron-density plasmas (e.g., $\( n_e = 10^{25} \, \text{m}^{-3} \)$, ach
 
 ## 10. Observational Tests and Predictions  
 
-This hypothesis predicts distinct effects in high-$\( n_e \)$ environments, including:
+This hypothesis predicts distinct effects in high- $\( n_e \)$ environments, including:
 - **Anomalous acceleration** in plasma-rich regions (e.g., stellar coronas).
 - **Modified gravitational lensing** near neutron stars with high electron densities.
 - **Propulsion effects** in lab plasma experiments.
